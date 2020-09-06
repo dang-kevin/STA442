@@ -1,2 +1,2 @@
 # STA442
-Coursework
+Methods of Applied Statistics Coursework
